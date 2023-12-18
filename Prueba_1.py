@@ -1,1 +1,1 @@
-print ("Hola Mundo es una prueba")
+print ("Hola Mundo")
