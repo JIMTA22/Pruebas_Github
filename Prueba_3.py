@@ -1,1 +1,1 @@
-print("Esto es otro fichero")
+print ("Esto es otro fichero")
